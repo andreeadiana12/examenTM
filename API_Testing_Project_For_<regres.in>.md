@@ -6,11 +6,13 @@ Application under test: **https://reqres.in/api/**
 
 Tools used: Postman
 
+Collection link: https://github.com/andreeadiana12/examenTM
+
 <h2>Tests performed</h2>
 
 <ol>
 <li>**GET request**</li>
-
+HTTP method for request: **GET**<br>
 Request description: **Used to request data from a server. It does not modify the resources on the server, it just reads them. It is used to get information, for example to see the list of users, details about a particular product, etc. In my case, I wanted to get a list of users on page 2.**<br>
 Test types / techniques used: **Functionality, integration testing, limit testing**<br>
 Response status code: **Response code: 200 OK**<br>
