@@ -6,7 +6,7 @@ Application under test: **https://reqres.in/api/**
 
 Tools used: Postman
 
-Collection link: https://github.com/andreeadiana12/examenTM![image](https://github.com/user-attachments/assets/e68c5f6f-78fd-4948-93b5-8ca7f075e430)
+Collection link: https://github.com/andreeadiana12/examenTM
 
 <h2>Tests performed</h2>
 
