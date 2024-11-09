@@ -6,8 +6,6 @@ Application under test: **https://reqres.in/api/**
 
 Tools used: Postman
 
-Collection link: https://github.com/andreeadiana12/examenTM
-
 <h2>Tests performed</h2>
 
 <ol>
