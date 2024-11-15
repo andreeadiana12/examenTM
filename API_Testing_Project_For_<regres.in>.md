@@ -12,16 +12,11 @@ Collection [link](https://github.com/andreeadiana12/examenTM)
 <h2>Tests performed</h2>
 
 <ol>
-1. <li>**POST request**</li>
-- HTTP method for request: **GET**<br>
-- Request description: **Used to request data from a server. It does not
-modify the resources on the server, it just reads them. It is used to
-get information, for example to see the list of users, details about a
-particular product, etc. In my case, I wanted to get a list of users on
-page 2.**<br>
-- Test types / techniques used: **Functionality, integration testing,
-limit testing**<br>
-- Response status code: **Response code: 200 OK**<br>
+<li>GET request</li>
+HTTP method for request: **GET**<br>
+Request description: **Used to request data from a server. It does not get information, for example to see the list of users, details about a particular product, etc. In my case, I wanted to get a list of users on page 2.**<br>
+Test types / techniques used: **Functionality, integration testing, limit testing**<br>
+Response status code: **Response code: 200 OK**<br>
 
 Below you can find a picture of the API request from Postman:<br>
  
@@ -32,7 +27,7 @@ JavaScript Tests:
 **![image](https://github.com/user-attachments/assets/e67e3c9f-6010-48c3-9596-08856619260e)**<br>
 
 
-<li>**POST request**</li>
+<li>POST request</li>
 
 HTTP method for request: **POST**<br>
 Request description: **Used to send data to the server to create a new resource. For example, submitting a user registration form. In my case, I wanted to create a new user with the name "Andreea" and the job "lawyer".**<br>
@@ -48,7 +43,7 @@ JavaScript Tests:
 **![image](https://github.com/user-attachments/assets/07378882-777c-4fc6-84eb-515c3f5ddb3c)**<br>
 
 
-<li>**PUT request**</li>
+<li>PUT request</li>
 
 HTTP method for request: **PUT**<br>
 Request description: **Used to update an existing resource on the server. It usually requires to submit all the necessary data to completely replace the resource. In my case, I wanted to update completely the user with ID 2.**<br>
