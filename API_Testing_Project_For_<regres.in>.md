@@ -1,24 +1,24 @@
-<h1>API Testing Project for https://reqres.in/api/ </h1>
+<h1>API Testing Project for reqres.in </h1>
+
 
 The scope of this project is to use all  API knowledge gained throught the Software Testing course and apply them in practice, using a live application.
 
-Application under test: **https://reqres.in/api/**
+Application under test: [reqres.in](https://reqres.in/api)
 
 Tools used: Postman
 
-Collection link: https://github.com/andreeadiana12/examenTM
+Collection [link](https://github.com/andreeadiana12/examenTM)
 
 <h2>Tests performed</h2>
 
 <ol>
-<li>**GET request**</li>
-HTTP method for request: **GET**<br>
-Request description: **Used to request data from a server. It does not modify the resources on the server, it just reads them. It is used to get information, for example to see the list of users, details about a particular product, etc. In my case, I wanted to get a list of users on page 2.**<br>
-Test types / techniques used: **Functionality, integration testing, limit testing**<br>
-Response status code: **Response code: 200 OK**<br>
-
+1. **GET request**
+- HTTP method for request: **GET**<br>
+- Request description: **Used to request data from a server. It does not modify the resources on the server, it just reads them. It is used to get information, for example to see the list of users, details about a particular product, etc. In my case, I wanted to get a list of users on page 2.**
+- Test types / techniques used: **Functionality, integration testing, limit testing**<br>
+- Response status code: **Response code: 200 OK**<br>
 Below you can find a picture of the API request from Postman:<br>
-
+ 
 **![image](https://github.com/user-attachments/assets/52908c1a-88ac-4dc9-b499-3867e5d25b63)**<br>
 
 JavaScript Tests:
