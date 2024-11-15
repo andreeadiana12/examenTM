@@ -12,7 +12,7 @@ Collection [link](https://github.com/andreeadiana12/examenTM)
 <h2>Tests performed</h2>
 
 <ol>
-1. **GET request**
+1. <li>**POST request**</li>
 - HTTP method for request: **GET**<br>
 - Request description: **Used to request data from a server. It does not
 modify the resources on the server, it just reads them. It is used to
